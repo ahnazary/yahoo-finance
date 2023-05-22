@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="net.codejava.AppTest" time="0.012" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="net.codejava.AppTest" time="0.019" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="20"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="DE"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/20.0.1/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/amirnazary/Documents/Code/yahoo-finance/YahooFinance/target/surefire/surefirebooter-20230521082121983_3.jar /Users/amirnazary/Documents/Code/yahoo-finance/YahooFinance/target/surefire 2023-05-21T08-21-21_947-jvmRun1 surefire-20230521082121983_1tmp surefire_0-20230521082121983_2tmp"/>
+    <property name="sun.java.command" value="/Users/amirnazary/Documents/Code/yahoo-finance/YahooFinance/target/surefire/surefirebooter-20230522134117383_3.jar /Users/amirnazary/Documents/Code/yahoo-finance/YahooFinance/target/surefire 2023-05-22T13-41-17_339-jvmRun1 surefire-20230522134117383_1tmp surefire_0-20230522134117383_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/amirnazary/Documents/Code/yahoo-finance/YahooFinance/target/test-classes:/Users/amirnazary/Documents/Code/yahoo-finance/YahooFinance/target/classes:/Users/amirnazary/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/amirnazary/Documents/Code/yahoo-finance/YahooFinance/target/surefire/surefirebooter-20230521082121983_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/amirnazary/Documents/Code/yahoo-finance/YahooFinance/target/surefire/surefirebooter-20230522134117383_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="20.0.1"/>
@@ -58,5 +58,5 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="64.0"/>
   </properties>
-  <testcase name="testApp" classname="net.codejava.AppTest" time="0.001"/>
+  <testcase name="testApp" classname="net.codejava.AppTest" time="0.002"/>
 </testsuite>
