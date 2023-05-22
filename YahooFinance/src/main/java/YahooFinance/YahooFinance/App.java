@@ -1,9 +1,4 @@
-package net.codejava;
-
-/**
- * Hello world!
- *
- */
+package YahooFinance.YahooFinance;
 public class App 
 {
     public static void main( String[] args )
