@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a651a72b-3b30-452d-8775-cba82d06d177" name="Changes" comment="">
+    <list default="true" id="a651a72b-3b30-452d-8775-cba82d06d177" name="Changes" comment="Test intellij">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +14,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7dd8348c-004b-4efe-8192-dbac8a807394" />
+        <option name="url" value="https://github.com/ahnazary/yahoo-finance.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,6 +67,18 @@
       <option name="presentableId" value="Default" />
       <updated>1684688792524</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test intellij">
+      <created>1687007815630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687007815630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test intellij" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test intellij" />
   </component>
 </project>
